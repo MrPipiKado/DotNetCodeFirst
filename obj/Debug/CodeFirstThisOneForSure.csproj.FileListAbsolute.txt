@@ -1,0 +1,14 @@
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\bin\Debug\CodeFirstThisOneForSure.exe.config
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\bin\Debug\CodeFirstThisOneForSure.exe
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\bin\Debug\CodeFirstThisOneForSure.pdb
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\bin\Debug\EntityFramework.dll
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\bin\Debug\EntityFramework.xml
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\obj\Debug\CodeFirstThisOneForSure.csproj.AssemblyReference.cache
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\obj\Debug\CodeFirstThisOneForSure.csproj.CoreCompileInputs.cache
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\obj\Debug\CodeFirstThisOneForSure.csproj.CopyComplete
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\obj\Debug\CodeFirstThisOneForSure.exe
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\obj\Debug\CodeFirstThisOneForSure.pdb
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\obj\Debug\CodeFirstThisOneForSure.Migrations.CreateOrders.resources
+C:\Users\Markiian_Andreiko\source\repos\CodeFirstThisOneForSure\CodeFirstThisOneForSure\obj\Debug\CodeFirstThisOneForSure.csproj.GenerateResource.cache
